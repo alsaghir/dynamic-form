@@ -1,0 +1,2 @@
+api.forms: '/api/v1/forms'
+backend.host: 'http://localhost:7778'
